@@ -2,8 +2,11 @@
 
 # My name is Valenta Abram Nugraha Putra 
 <ul>
-  <li>🌱 currently learning and interested on Front End Web Development, Illustrating, 3D Modeling </li>
+  <li>🌱 Currently learning and interested on Front End Web Development, Illustrating, 3D Modeling </li>
   <li>💼 Student at SMK Telkom Malang.</li>
+  <br/>
+  <li> Here some of our work : </li>
+  <li> https://robertbudijr.github.io/ingfo.id/ </li>
 </ul>
 
 # Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
