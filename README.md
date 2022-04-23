@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**RobertBudiJr/RobertBudiJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # My name is Valenta Abram Nugraha Putra 
 <ul>
   <li>🌱 currently learning and interested on Front End Web Development, Illustrating, 3D Modeling </li>
