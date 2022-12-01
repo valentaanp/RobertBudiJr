@@ -21,7 +21,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
 
 
-![snake gif](https://github.com/PanGami/PanGami/blob/output/github-contribution-grid-snake.gif)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbudijr&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 # Socials
 <h4 align="center">Connect With Me!</h4>
