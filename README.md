@@ -32,6 +32,6 @@
     <a href="https://www.instagram.com/valent_89/"><img alt="Instagram" title="Private Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
  <p align="center">
-  <a href="valent.anp@gmail.com"><img alt="Gmail" title="Valent's Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="valenta.anp@gmail.com"><img alt="Gmail" title="Valent's Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
