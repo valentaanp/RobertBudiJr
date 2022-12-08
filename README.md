@@ -10,7 +10,7 @@
   <li> https://robertbudijr.github.io/Kuliwisata.id/ </li>
 </ul>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=robertbudijr&theme=onedark&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=robertbudijr&theme=onedark&rank=-C,-B)](https://github.com/RobertBudiJr?tab=repositories)
 
 # Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
@@ -23,7 +23,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbudijr&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbudijr&show_icons=true&theme=gotham)](https://github.com/RobertBudiJr?tab=repositories)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertbudijr&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
