@@ -2,8 +2,10 @@
 
 # My name is Valenta Abram Nugraha Putra 
 <ul>
-  <li>🌱 Currently learning and interested on Front End Web Development, Illustrating, 3D Modeling </li>
+  <li>🌱 Currently learning and interested on Front End Web Development, 3D Modeling </li>
   <li>💼 Student at SMK Telkom Malang.</li>
+  <li> https://cicellion.netlify.app <li>
+  
   <br/>
   <li> Here some of our work : </li>
   <li> https://robertbudijr.github.io/ingfo.id/ </li>
