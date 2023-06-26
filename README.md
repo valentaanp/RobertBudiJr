@@ -4,7 +4,7 @@
 <ul>
   <li>🌱 Currently learning and interested on Front End Web Development, 3D Modeling </li>
   <li>💼 Student at SMK Telkom Malang.</li>
-  <li> https://cicellion.netlify.app <li>
+  <li> https://cicellion.site <li>
   
   <br/>
   <li> Here some of our work : </li>
