@@ -4,11 +4,6 @@
 <ul>
   <li>🌱 Currently learning and interested on Web Development</li>
   <li> https://cicellion.site <li>
-  
-  <br/>
-  <li> Here some of our work : </li>
-  <li> https://robertbudijr.github.io/ingfo.id/ </li>
-  <li> https://robertbudijr.github.io/Kuliwisata.id/ </li>
 </ul>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=robertbudijr&theme=onedark&rank=-C,-B)](https://github.com/RobertBudiJr?tab=repositories)
