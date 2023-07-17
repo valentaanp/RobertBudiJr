@@ -2,8 +2,7 @@
 
 # My name is Valenta Abram Nugraha Putra 
 <ul>
-  <li>🌱 Currently learning and interested on Front End Web Development, 3D Modeling </li>
-  <li>💼 Student at SMK Telkom Malang.</li>
+  <li>🌱 Currently learning and interested on Web Development</li>
   <li> https://cicellion.site <li>
   
   <br/>
@@ -16,7 +15,7 @@
 
 # Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
-![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
+![Vue](http://img.shields.io/badge/-Vue-e8892f?style=flat-square&logo=vue&logoColor=white)
 ![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
