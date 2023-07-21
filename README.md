@@ -3,7 +3,7 @@
 # My name is Valenta Abram Nugraha Putra 
 <ul>
   <li>🌱 Currently learning and interested on Web Development</li>
-  <li> https://cicellion.site <li>
+  <li> https://cicellion.site/s <li>
 </ul>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=robertbudijr&theme=onedark&rank=-C,-B)](https://github.com/RobertBudiJr?tab=repositories)
