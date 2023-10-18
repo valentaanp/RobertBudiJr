@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-# My name is Valenta Abram Nugraha Putra 
+# My name is Valenta Abram
 <ul>
   <li>🌱 Currently learning and interested on Web Development</li>
-  <li> https://cicellion.site/s <li>
+  <li> https://cicellion.site/s </li>
 </ul>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=robertbudijr&theme=onedark&rank=-C,-B)](https://github.com/RobertBudiJr?tab=repositories)
